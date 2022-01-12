@@ -1,0 +1,24 @@
+{
+    "name": "wabotapi",
+    "version": "1.0.0",
+    "description": "API Whatsapp untuk ArsipCi4",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "config": "^3.3.6",
+        "express": "^4.17.2",
+        "jsonwebtoken": "^8.5.1",
+        "qrcode": "^1.5.0",
+        "qrcode-terminal": "^0.12.0",
+        "socket.io": "^4.4.1",
+        "whatsapp-web.js": "^1.15.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
