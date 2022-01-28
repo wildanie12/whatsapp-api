@@ -10,13 +10,13 @@
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "config": "^3.3.6",
+        "config": "^3.3.7",
         "express": "^4.17.2",
         "jsonwebtoken": "^8.5.1",
         "qrcode": "^1.5.0",
         "qrcode-terminal": "^0.12.0",
         "socket.io": "^4.4.1",
-        "whatsapp-web.js": "^1.15.3"
+        "whatsapp-web.js": "^1.15.4"
     },
     "devDependencies": {
         "nodemon": "^2.0.15"
